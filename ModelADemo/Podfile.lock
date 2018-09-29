@@ -1,0 +1,16 @@
+PODS:
+  - HandyFrame (1.2.0)
+
+DEPENDENCIES:
+  - HandyFrame
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HandyFrame
+
+SPEC CHECKSUMS:
+  HandyFrame: 437df83ba7563c56cd55b9bd0128561995463110
+
+PODFILE CHECKSUM: 225d998401b5128b5a3b68a5e49d102c6f78667d
+
+COCOAPODS: 1.6.0.beta.1
