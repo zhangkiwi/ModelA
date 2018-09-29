@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "ModelA"
-s.version      = "0.0.2"
+s.version      = "0.0.3"
 s.summary      = "ModelA"       #简短介绍
 s.description  = <<-DESC
 简短介绍简短ModelA介绍简短介绍
