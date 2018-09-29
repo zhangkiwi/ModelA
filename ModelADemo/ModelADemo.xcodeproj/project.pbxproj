@@ -99,8 +99,8 @@
 		578FABDF215FAD3400C4F914 /* Targets */ = {
 			isa = PBXGroup;
 			children = (
-				578FABE0215FAD3400C4F914 /* Target_A.m */,
 				578FABE1215FAD3400C4F914 /* Target_A.h */,
+				578FABE0215FAD3400C4F914 /* Target_A.m */,
 			);
 			path = Targets;
 			sourceTree = "<group>";
